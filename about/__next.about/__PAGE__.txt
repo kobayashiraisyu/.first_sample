@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3f8ff96fa9023cf7.js"],""]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"i_NHMnNNJ89LU8WaiYNPR","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"p-8","children":[["$","header",null,{"className":"bg-gray-800 text-white p-4 rounded-md mb-6","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"About ページ"}],["$","nav",null,{"className":"space-x-4","children":[["$","$L2",null,{"href":"/","className":"hover:underline","children":"ホーム"}],["$","$L2",null,{"href":"/about","className":"hover:underline","children":"About"}]]}]]}],["$","div",null,{"className":"bg-white p-6 rounded-md shadow","children":["$","p",null,{"children":"これは私たちについてのページです．"}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3f8ff96fa9023cf7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
